@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "Топ-10 обо Всём в Мире Финансов"
+  },
+  "blog": {
+    "continueReading": "Читать Далее",
+    "breadcrumbHome": "Главная",
+    "breadcrumbBlog": "Блог",
+    "tableOfContents": "Содержание",
+    "relatedPosts": "Вам Также Может Понравиться",
+    "postedBy": "Автор",
+    "postedOn": "от",
+    "postedIn": "в",
+    "faq": "Часто Задаваемые Вопросы"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. Все права защищены."
+  }
+}

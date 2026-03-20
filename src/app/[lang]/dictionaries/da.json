@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "Top 10 om Alt inden for Finans"
+  },
+  "blog": {
+    "continueReading": "Fortsæt med at Læse",
+    "breadcrumbHome": "Hjem",
+    "breadcrumbBlog": "Blog",
+    "tableOfContents": "Indholdsfortegnelse",
+    "relatedPosts": "Du Vil Måske Også Synes Om",
+    "postedBy": "Af",
+    "postedOn": "den",
+    "postedIn": "i",
+    "faq": "Ofte Stillede Spørgsmål"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. Alle rettigheder forbeholdes."
+  }
+}

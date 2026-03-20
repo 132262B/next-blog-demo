@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "Top 10 over Alles wat met Financiën te Maken Heeft"
+  },
+  "blog": {
+    "continueReading": "Verder Lezen",
+    "breadcrumbHome": "Home",
+    "breadcrumbBlog": "Blog",
+    "tableOfContents": "Inhoudsopgave",
+    "relatedPosts": "Misschien Vind Je Dit Ook Leuk",
+    "postedBy": "Door",
+    "postedOn": "op",
+    "postedIn": "in",
+    "faq": "Veelgestelde Vragen"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. Alle rechten voorbehouden."
+  }
+}

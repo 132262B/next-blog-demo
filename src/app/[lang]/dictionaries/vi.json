@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "Top 10 về Mọi Thứ Tài Chính"
+  },
+  "blog": {
+    "continueReading": "Đọc Tiếp",
+    "breadcrumbHome": "Trang Chủ",
+    "breadcrumbBlog": "Blog",
+    "tableOfContents": "Mục Lục",
+    "relatedPosts": "Bạn Cũng Có Thể Thích",
+    "postedBy": "Bởi",
+    "postedOn": "vào",
+    "postedIn": "trong",
+    "faq": "Câu Hỏi Thường Gặp"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. Tất cả các quyền được bảo lưu."
+  }
+}

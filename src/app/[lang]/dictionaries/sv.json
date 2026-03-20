@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "Topp 10 om Allt inom Finans"
+  },
+  "blog": {
+    "continueReading": "Fortsätt Läsa",
+    "breadcrumbHome": "Hem",
+    "breadcrumbBlog": "Blogg",
+    "tableOfContents": "Innehållsförteckning",
+    "relatedPosts": "Du Kanske Också Gillar",
+    "postedBy": "Av",
+    "postedOn": "den",
+    "postedIn": "i",
+    "faq": "Vanliga Frågor"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. Alla rättigheter förbehållna."
+  }
+}

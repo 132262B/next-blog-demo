@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "أفضل 10 في كل ما يخص المالية"
+  },
+  "blog": {
+    "continueReading": "متابعة القراءة",
+    "breadcrumbHome": "الرئيسية",
+    "breadcrumbBlog": "المدونة",
+    "tableOfContents": "جدول المحتويات",
+    "relatedPosts": "قد يعجبك أيضاً",
+    "postedBy": "بواسطة",
+    "postedOn": "في",
+    "postedIn": "في",
+    "faq": "الأسئلة الشائعة"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. جميع الحقوق محفوظة."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "金融万事Top 10"
+  },
+  "blog": {
+    "continueReading": "继续阅读",
+    "breadcrumbHome": "首页",
+    "breadcrumbBlog": "博客",
+    "tableOfContents": "目录",
+    "relatedPosts": "你可能还喜欢",
+    "postedBy": "作者",
+    "postedOn": "发布于",
+    "postedIn": "分类",
+    "faq": "常见问题"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. All rights reserved."
+  }
+}

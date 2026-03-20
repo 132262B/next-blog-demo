@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "Top 10 su Tutto ciò che Riguarda la Finanza"
+  },
+  "blog": {
+    "continueReading": "Continua a Leggere",
+    "breadcrumbHome": "Home",
+    "breadcrumbBlog": "Blog",
+    "tableOfContents": "Indice",
+    "relatedPosts": "Potrebbe Piacerti Anche",
+    "postedBy": "Di",
+    "postedOn": "il",
+    "postedIn": "in",
+    "faq": "Domande Frequenti"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. Tutti i diritti riservati."
+  }
+}

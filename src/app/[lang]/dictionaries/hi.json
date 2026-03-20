@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "वित्त की हर चीज़ पर शीर्ष 10"
+  },
+  "blog": {
+    "continueReading": "पढ़ना जारी रखें",
+    "breadcrumbHome": "होम",
+    "breadcrumbBlog": "ब्लॉग",
+    "tableOfContents": "विषय सूची",
+    "relatedPosts": "आपको यह भी पसंद आ सकता है",
+    "postedBy": "लेखक",
+    "postedOn": "तारीख",
+    "postedIn": "श्रेणी",
+    "faq": "अक्सर पूछे जाने वाले प्रश्न"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. सर्वाधिकार सुरक्षित।"
+  }
+}
