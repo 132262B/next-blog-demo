@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "10 อันดับสุดยอดด้านการเงิน"
+  },
+  "blog": {
+    "continueReading": "อ่านต่อ",
+    "breadcrumbHome": "หน้าแรก",
+    "breadcrumbBlog": "บล็อก",
+    "tableOfContents": "สารบัญ",
+    "relatedPosts": "คุณอาจชอบสิ่งนี้",
+    "postedBy": "โดย",
+    "postedOn": "เมื่อ",
+    "postedIn": "ใน",
+    "faq": "คำถามที่พบบ่อย"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. สงวนลิขสิทธิ์ทั้งหมด"
+  }
+}

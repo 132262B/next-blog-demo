@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "Top 10 em Tudo sobre Finanças"
+  },
+  "blog": {
+    "continueReading": "Continuar Lendo",
+    "breadcrumbHome": "Início",
+    "breadcrumbBlog": "Blog",
+    "tableOfContents": "Índice",
+    "relatedPosts": "Você Também Pode Gostar",
+    "postedBy": "Por",
+    "postedOn": "em",
+    "postedIn": "em",
+    "faq": "Perguntas Frequentes"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. Todos os direitos reservados."
+  }
+}

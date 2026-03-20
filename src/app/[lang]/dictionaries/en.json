@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "Top 10 on Everything Finance"
+  },
+  "blog": {
+    "continueReading": "Continue Reading",
+    "breadcrumbHome": "Home",
+    "breadcrumbBlog": "Blog",
+    "tableOfContents": "Table of Contents",
+    "relatedPosts": "You Might Also Like",
+    "postedBy": "By",
+    "postedOn": "on",
+    "postedIn": "in",
+    "faq": "Frequently Asked Questions"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. All rights reserved."
+  }
+}

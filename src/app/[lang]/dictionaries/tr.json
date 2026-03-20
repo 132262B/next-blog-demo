@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "Finansın Her Alanında En İyi 10"
+  },
+  "blog": {
+    "continueReading": "Okumaya Devam Et",
+    "breadcrumbHome": "Ana Sayfa",
+    "breadcrumbBlog": "Blog",
+    "tableOfContents": "İçindekiler",
+    "relatedPosts": "Bunları da Beğenebilirsiniz",
+    "postedBy": "Yazar",
+    "postedOn": "tarihinde",
+    "postedIn": "kategorisinde",
+    "faq": "Sıkça Sorulan Sorular"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. Tüm hakları saklıdır."
+  }
+}

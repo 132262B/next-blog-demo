@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "Top 10 ze Świata Finansów"
+  },
+  "blog": {
+    "continueReading": "Czytaj Dalej",
+    "breadcrumbHome": "Strona Główna",
+    "breadcrumbBlog": "Blog",
+    "tableOfContents": "Spis Treści",
+    "relatedPosts": "Może Ci Się Również Spodobać",
+    "postedBy": "Autor",
+    "postedOn": "dnia",
+    "postedIn": "w",
+    "faq": "Najczęściej Zadawane Pytania"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. Wszelkie prawa zastrzeżone."
+  }
+}

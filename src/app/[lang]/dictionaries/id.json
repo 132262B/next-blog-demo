@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "10 Teratas tentang Segala Hal Keuangan"
+  },
+  "blog": {
+    "continueReading": "Lanjutkan Membaca",
+    "breadcrumbHome": "Beranda",
+    "breadcrumbBlog": "Blog",
+    "tableOfContents": "Daftar Isi",
+    "relatedPosts": "Anda Mungkin Juga Suka",
+    "postedBy": "Oleh",
+    "postedOn": "pada",
+    "postedIn": "di",
+    "faq": "Pertanyaan yang Sering Diajukan"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. Semua hak dilindungi."
+  }
+}

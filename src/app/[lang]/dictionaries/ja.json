@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "金融のすべてをトップ10で"
+  },
+  "blog": {
+    "continueReading": "続きを読む",
+    "breadcrumbHome": "ホーム",
+    "breadcrumbBlog": "ブログ",
+    "tableOfContents": "目次",
+    "relatedPosts": "おすすめの記事",
+    "postedBy": "投稿者",
+    "postedOn": "投稿日",
+    "postedIn": "カテゴリ",
+    "faq": "よくある質問"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. All rights reserved."
+  }
+}

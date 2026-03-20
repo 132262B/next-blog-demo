@@ -1,0 +1,22 @@
+{
+  "header": {
+    "siteTitle": "DANDAN10"
+  },
+  "home": {
+    "tagline": "금융의 모든 것 Top 10"
+  },
+  "blog": {
+    "continueReading": "계속 읽기",
+    "breadcrumbHome": "홈",
+    "breadcrumbBlog": "블로그",
+    "tableOfContents": "목차",
+    "relatedPosts": "추천 게시글",
+    "postedBy": "작성자",
+    "postedOn": "작성일",
+    "postedIn": "카테고리",
+    "faq": "자주 묻는 질문"
+  },
+  "footer": {
+    "copyright": "© 2026 DANDAN10. All rights reserved."
+  }
+}
