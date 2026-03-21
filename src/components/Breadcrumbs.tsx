@@ -12,13 +12,13 @@ export default function Breadcrumbs({ postTitle, lang, dictionary }: Breadcrumbs
       <ol className="flex items-center gap-1 flex-wrap">
         <li>
           <Link href={`/${lang}/`} className="hover:underline text-gray-500">
-            Home
+            {dictionary.blog.breadcrumbHome}
           </Link>
         </li>
         <li aria-hidden="true" className="mx-1">&gt;</li>
         <li>
           <Link href={`/${lang}/`} className="hover:underline text-gray-500">
-            Blog
+            {dictionary.blog.breadcrumbBlog}
           </Link>
         </li>
         <li aria-hidden="true" className="mx-1">&gt;</li>

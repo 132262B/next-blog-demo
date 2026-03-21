@@ -9,7 +9,7 @@ export default function TableOfContents({ headings, title }: TableOfContentsProp
   if (headings.length === 0) return null
 
   return (
-    <nav className="border border-gray-200 rounded-sm p-5">
+    <nav className="border border-gray-400 rounded-sm p-5 mb-8">
       <h2 className="text-sm font-bold text-black mb-3 uppercase tracking-wide">
         {title}
       </h2>
