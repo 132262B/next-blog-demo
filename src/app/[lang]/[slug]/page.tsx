@@ -66,9 +66,9 @@ export default async function ArticlePage(
     <>
       {/* Breadcrumbs + Page Title */}
       <section className="bg-gray-50 border-b border-gray-200 py-6">
-        <div className="max-w-4xl mx-auto px-4">
+        <div className="max-w-6xl mx-auto px-4">
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2">
-            <h1 className="text-2xl font-semibold">
+            <h1 className="text-lg font-normal text-gray-700">
               {dict.blog.breadcrumbBlog}
             </h1>
             <Breadcrumbs
@@ -80,49 +80,56 @@ export default async function ArticlePage(
         </div>
       </section>
 
-      <article className="max-w-4xl mx-auto px-4 py-8">
-        {/* Featured Thumbnail */}
-        <img
-          src={`/${lang}/${slug}/opengraph-image`}
-          alt={post.frontmatter.title}
-          className="w-full aspect-video object-cover rounded-lg mb-8"
-        />
+      <div className="max-w-6xl mx-auto px-4 py-8">
+        <div className="flex gap-8">
+          <article className="flex-1 min-w-0">
+            {/* Featured Thumbnail */}
+            <img
+              src={`/${lang}/${slug}/opengraph-image`}
+              alt={post.frontmatter.title}
+              className="w-full aspect-video object-cover mb-8"
+            />
 
-        {/* Post Title */}
-        <h2 className="text-2xl md:text-3xl font-bold mb-4">
-          {post.frontmatter.title}
-        </h2>
+            {/* Post Title */}
+            <h2 className="text-3xl md:text-4xl font-semibold text-gray-700 mb-4">
+              {post.frontmatter.title}
+            </h2>
 
-        {/* Post Meta */}
-        <PostMeta
-          author={post.frontmatter.author}
-          date={post.frontmatter.date}
-          category={post.frontmatter.category}
-          lang={lang}
-        />
+            {/* Post Meta */}
+            <div className="mb-8">
+              <PostMeta
+                author={post.frontmatter.author}
+                date={post.frontmatter.date}
+                category={post.frontmatter.category}
+                lang={lang}
+              />
+            </div>
 
-        {/* Table of Contents */}
-        {headings.length > 0 && (
-          <TableOfContents
-            headings={headings}
-            title={dict.blog.tableOfContents}
-          />
-        )}
+            {/* Table of Contents */}
+            {headings.length > 0 && (
+              <TableOfContents
+                headings={headings}
+                title={dict.blog.tableOfContents}
+              />
+            )}
 
-        {/* Article Body */}
-        <ArticleBody contentHtml={contentHtml} />
-      </article>
+            {/* Article Body */}
+            <ArticleBody contentHtml={contentHtml} />
 
-      {/* Related Posts */}
-      {relatedPosts.length > 0 && (
-        <section className="max-w-4xl mx-auto px-4 pb-12">
-          <RelatedPosts
-            posts={relatedPosts}
-            lang={lang}
-            title={dict.blog.relatedPosts}
-          />
-        </section>
-      )}
+            {/* Related Posts */}
+            {relatedPosts.length > 0 && (
+              <section className="pt-12">
+                <RelatedPosts
+                  posts={relatedPosts}
+                  lang={lang}
+                  title={dict.blog.relatedPosts}
+                />
+              </section>
+            )}
+          </article>
+          <aside className="hidden md:block w-72 shrink-0" />
+        </div>
+      </div>
 
       {/* JSON-LD Structured Data */}
       <script

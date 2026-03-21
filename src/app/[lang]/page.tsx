@@ -36,23 +36,26 @@ export default async function HomePage(props: PageProps<'/[lang]'>) {
   return (
     <>
       <section className="bg-gray-50 border-b border-gray-200 py-10">
-        <div className="max-w-4xl mx-auto px-4 text-center">
-          <h1 className="text-2xl md:text-3xl font-semibold text-gray-800">
+        <div className="max-w-6xl mx-auto px-4 text-center">
+          <h1 className="text-3xl md:text-4xl font-normal text-gray-700">
             {dict.home.tagline}
           </h1>
         </div>
       </section>
 
-      <section className="max-w-4xl mx-auto px-4 py-10">
-        <div className="space-y-12">
-          {posts.map((post) => (
-            <BlogCard
-              key={post.frontmatter.slug}
-              post={post}
-              lang={lang}
-              dictionary={dict}
-            />
-          ))}
+      <section className="max-w-6xl mx-auto px-4 py-10">
+        <div className="flex gap-8">
+          <div className="flex-1 min-w-0 space-y-12">
+            {posts.map((post) => (
+              <BlogCard
+                key={post.frontmatter.slug}
+                post={post}
+                lang={lang}
+                dictionary={dict}
+              />
+            ))}
+          </div>
+          <aside className="hidden md:block w-72 shrink-0" />
         </div>
       </section>
 
